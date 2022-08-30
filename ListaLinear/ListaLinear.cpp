@@ -105,7 +105,7 @@ void inserirElemento()
 
 		if (pos != -1)
 		{
-			cout << "Elemento já esta na lista" << endl;
+			cout << "Elemento jÃ¡ esta na lista" << endl;
 		}
 		else
 		{
@@ -119,7 +119,7 @@ void inserirElemento()
 	}
 
 }
-
+//Thiago Pinheiro Oliveira Matos
 void excluirElemento()
 {
 	int valor = 0;
@@ -137,7 +137,7 @@ void excluirElemento()
 		}
 	}
 	else {
-		cout << "Não existe esse elemento" << endl;
+		cout << "NÃ£o existe esse elemento" << endl;
 	}
 }
 
